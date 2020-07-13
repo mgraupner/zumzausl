@@ -90,6 +90,9 @@ header div {
   display: inline-block;
 }
 
+#menu div {
+  font-size: 2em;
+}
 #menu a, #menu-mobile a {
   text-decoration: none;
   color: #000;
