@@ -177,4 +177,16 @@ aside h3 {
   img.center {
     margin: 0.3em auto;
   }
+
+  aside h3 {
+    font-size: 1.3em;
+    font-weight: 200;
+    margin-bottom: 0.3em;
+  }
+
+  aside p {
+    font-family: 'Raleway', sans-serif;
+    line-height: 1.3;
+    font-size: 0.8em;
+  }
 }
