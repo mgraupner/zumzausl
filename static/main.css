@@ -180,13 +180,14 @@ aside h3 {
 
   aside h3 {
     font-size: 1.3em;
-    font-weight: 200;
-    margin-bottom: 0.3em;
+    /* margin-bottom: 0.3em; */
   }
 
   aside p {
     font-family: 'Raleway', sans-serif;
     line-height: 1.4;
     font-size: 0.8em;
+    margin-bottom: 0.3em;
+    margin-top: 0.35em;
   }
 }
