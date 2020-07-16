@@ -140,19 +140,6 @@ hr {
   margin-top: 3em;
 }
 
-.grid1 {
-  width: 7%;
-}
-.grid2 {
-  width: 16%;
-}
-.grid3 {
-  width: 25%;
-}
-.grid6 {
-  width: 50%;
-}
-
 .clearfix::after {
   display: block;
   clear: both;
@@ -189,6 +176,8 @@ aside p {
 
 #footer p {
   font-size: 1em;
+  font-family: 'IBM Plex Sans Condensed', sans-serif;
+  margin-bottom: 0;
 }
 
 #show-impress {
@@ -258,7 +247,7 @@ aside p {
     margin-top: 0.35em;
   }
 
-  #footer p {
+  #show-impress, #footer p {
     font-size: 0.8em;
   }
 }
