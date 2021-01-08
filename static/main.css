@@ -179,6 +179,15 @@ aside p strong {
   font-weight: 500;
 }
 
+table.pricing {
+  font-size: 1.5em;
+  border-spacing: 10px;
+  border-collapse: separate;
+}
+table.pricing td:not(:first-child) {
+  text-align: right;
+}
+
 #footer p {
   font-size: 1em;
   font-family: 'IBM Plex Sans Condensed', sans-serif;
