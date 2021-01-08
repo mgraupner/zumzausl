@@ -272,6 +272,15 @@ table.pricing td:not(:first-child) {
     -webkit-hyphens: auto;
   }
 
+  table.pricing {
+    font-size: 0.7em;
+    border-spacing: 5px;
+  }
+
+  aside span {
+    font-size: 0.6em;
+  }
+
   #show-impress, #footer p {
     font-size: 0.8em;
   }
